@@ -7,7 +7,7 @@ Kernel Version:5.10
 
 This Firmware Overclocked CPU to 1000Mhz,If You Won't Need it,[Check This Firmware](https://github.com/DestoryG/LeanWRT-MiR3G-510)
 
-Still Looking For 5.4 Kernel ? [Check This](https://github.com/Destroy-God/LeanWRT-MiR3G))
+Still Looking For 5.4 Kernel ? [Check This](https://github.com/Destroy-God/LeanWRT-MiR3G)
 
 ## Credits
 
