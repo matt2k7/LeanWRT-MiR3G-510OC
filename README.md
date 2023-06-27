@@ -1,5 +1,3 @@
-**English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
-
 # LeanWRT For MIR3G
 
 A OpenWRT Firmware For Xiaomi Router 3G V1.
