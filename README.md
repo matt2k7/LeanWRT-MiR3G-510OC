@@ -9,6 +9,12 @@ This Firmware Overclocked CPU to 1000Mhz, If You Won't Need it, [Check This Firm
 
 Still Looking For 5.4 Kernel ? [Check This](https://github.com/Destroy-God/LeanWRT-MiR3G)
 
+Make Sure Your Router Has [Breed Bootloader Version 1.2](https://breed.hackpascal.net/breed-mt7621-xiaomi-r3g.bin)
+
+Don't Flash This Firmware, Or Your Device Will BRICKED，Don't Say I Didn't Warn You:
+![image](https://github.com/DestoryG/LeanWRT-MiR3G-510OC/assets/136814177/bb1b3f96-4283-48de-9301-839f9fdd001d)
+
+
 ## Credits
 
 - [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
