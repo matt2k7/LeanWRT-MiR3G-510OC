@@ -31,7 +31,7 @@ env:
   UPLOAD_COWTRANSFER: false
   UPLOAD_WETRANSFER: true
   UPLOAD_RELEASE: true
-  TZ: Asia/Shanghai
+  TZ: Asia/Mumbai
 
 jobs:
   build:
@@ -68,11 +68,11 @@ jobs:
         cd openwrt
         $GITHUB_WORKSPACE/$DIY_P1_SH
         
-    - name: Clone ncm
-      run: git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic
+    #- name: Clone ncm
+      #run: git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic
 
-    - name: move ncm
-      run: mv luci-app-unblockneteasemusic package
+   # - name: move ncm
+      #run: mv luci-app-unblockneteasemusic package
       
     - name: Update feeds
       run: cd openwrt && ./scripts/feeds update -a
